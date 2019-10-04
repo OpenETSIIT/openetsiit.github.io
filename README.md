@@ -25,3 +25,5 @@ Puedes
   [grupo de correo](https://groups.google.com/forum/#!aboutgroup/openetsiit) al
   que te puedes unir si lo deseas.
 
+La presentación de candidaturas termina el 11 de octubre de 2019, con
+lo que tenemos 7 días para terminar este proceso.
