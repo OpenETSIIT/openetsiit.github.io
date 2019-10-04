@@ -10,8 +10,11 @@ responsabilidades.
 
 Puedes
 
-* Hacer propuestas para incorporar al manifiesto que se elaborará y
-  entregará todas las candidaturas.
+* Hacer [propuestas](https://github.com/OpenETSIIT/openetsiit.github.io/issues) para incorporar al manifiesto que se elaborará y
+  entregará todas las candidaturas. Simplemente comenta algún problema
+  que hayas observado, y si quieres, una posible solución. Si no
+  tienes solución y quieres buscarla, usa alguno de los grupos de
+  discusión más abajo (o los dos) para buscarla entre todo el mundo.
 * Unirte
   al [grupo de Telegram](https://t.me/joinchat/AOR8MlXds4QcXl6EaMhfqA)
   para discutir otras propuestas, o proponer ideas que finalmente
