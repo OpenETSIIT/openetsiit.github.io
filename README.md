@@ -20,18 +20,8 @@ Puedes
   para discutir otras propuestas, o proponer ideas que finalmente
   tendrían que incorporarse aquí.
 
-También se ha creado un grupo de correo:
+* También se ha creado
+  un
+  [grupo de correo](https://groups.google.com/forum/#!aboutgroup/openetsiit) al
+  que te puedes unir si lo deseas.
 
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/openetsiit'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script> 
